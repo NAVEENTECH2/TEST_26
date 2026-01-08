@@ -89,6 +89,5 @@ public class BaseClass {
 		
 		locator.clear();
 		locator.sendKeys(text);
-
-	
+	}	
 }
