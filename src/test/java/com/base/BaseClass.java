@@ -74,7 +74,7 @@ public class BaseClass {
 	public String getText1(By locator) {
 		return getElement(locator).getText();
 	}
-	
+	//Code change in another user
 	public String getText2(By locator) {
 		return getElement(locator).getText();
 	}
