@@ -74,4 +74,10 @@ public class BaseClass {
 	public String getText1(By locator) {
 		return getElement(locator).getText();
 	}
+    //Code changed to another user
+	public String getText1(By locator) {
+		return getElement(locator).getText();
+	}
+
+	
 }
